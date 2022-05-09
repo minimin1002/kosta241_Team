@@ -1,4 +1,4 @@
-package kosta241;
+package kosta241_Team;
 
 public class Project {
 
